@@ -1,158 +1,117 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=750&color=952323&width=435&lines=Hello;Welcome+%F0%9F%98%8A+to+Silva+MD+bot;This+is+our+official+repository+;Updated+on+September+2024;Silva+team+is+offering+the+best;For+this+bot;Fork+and+give+a+star)](https://git.io/typing-svg)
+### VERSION 4.0.1
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=F70094&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey+there!+Welcome+to+Silva+MD+Bot+🚀;🔍+The+Official+Repository+💻;✅+Created+in+September+2024;🤖+Powered+by+the+Silva+Team;🚀+Advanced+Features+%7C+Smooth+Performance+🧠;🔗+Fork+it+and+⭐+Star+the+Project)](https://git.io/typing-svg)
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=SILVA+MD+BOT" alt="Typing SVG" /></a>
-  </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=55&pause=700&color=FF007F&center=true&vCenter=true&width=990&height=100&lines=%F0%9F%91%91+SILVA+MD+BOT+%F0%9F%94%A5;READY+TO+SERVE" alt="Typing SVG"</a>
 
-### we love silva md
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
+<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/Ik0YpP0dM8jHVjScf1Ay5S)
+   
+<h4 align="center">SILVA SUPPORT GROUP</h1>
+
+---
+### 🌟 Connect With Me
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
-  </a>
+  <a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
+  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
+  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
+  <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<p align="center"> Introducing 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+> A powerful WhatsApp userbot built using the [Baileys](https://github.com/SilvaTechB/Baileys) library.  
+> Automate, interact, and explore AI, media tools, reactions, polls, and more!  
+> Built with ❤️ by [Silva Tech Inc](https://github.com/SilvaTechB).
 
 <p align="center">
   <a href="https://github.com/SilvaTechB/silva-md-bot">
-    <img alt="Silva docs" height="300" src="https://i.imgur.com/Yj5nnVr.jpeg">
+    <img alt="Silva docs" height="250" src="https://i.imgur.com/RvEKtPJ.jpeg">
   </a>
 </p>
-    
-   
-   
-<p align="center">
-  <a href="https://wa.me/+254700143167?text=hello+Bro--+I+Need+Help.+I've+messaged+you+from+𝑺𝒊𝒍𝒗𝒂+𝒕𝒆𝒄𝒉 ʙᴏᴛ+Repo" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SilvaTechB}/count.svg" alt="𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉 ᴍᴅ :: Visitor's Count" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+🍴 Fork our repo and star to show love
 
-<img align= "right" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/>
+[![Fork the repo](https://img.shields.io/badge/Fork%20this%20Repo-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilvaTechB/silva-md-bot/fork)
 
-
-
-<p align="center"> 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉 uses
-  <a href="https://github.com/SilvaTechB/Baileys">Multi-Device Baileys.</a>
-</p>
-<p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=linux&logoColor=c6c631"></img>
-</p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
-<p align="center">Need help? please create an <a href="https://github.com/SilvaTechB/silva-md-bot/issues">issue</a></p>
-
-
- <h3>silva tech Stats</h3>
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=SilvaTechB&repo=silva-md-bot&show_owner=true&theme=dark)
-
+ 🌐 Get Your Session ID or Creds.json File 
  
-## Setup
----
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/SilvaTechB/silva-md-bot/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
-### SETUP
+[![Get Session](https://img.shields.io/badge/-SILVA%20SESSION-1e293b?style=for-the-badge&logo=whatsapp&logoColor=green)](https://silva-session-selector.vercel.app/)
 
-1. PAIRING
-   
-<a href='https://creds-session.onrender.com' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-### DELETE THE EXISTING CREDS.JSON FILE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-#### DEPLOYMENT
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+## 📌 Deploy Now
 
-3. Now Deploy
-    <br>
-    
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-md-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+| Platform | Links |
+|---------|--------|
+| 🌐 Get Session | [![QR Code](https://img.shields.io/badge/-SILVA%20SESSION-1e293b?style=for-the-badge&logo=whatsapp&logoColor=green)](https://silva-session-selector.vercel.app/) |
+| ☁️ Heroku | [![Deploy Heroku](https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-6f42c1?style=for-the-badge&logo=heroku&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
+| 🚄 Railway | [![Deploy Railway](https://img.shields.io/badge/-DEPLOY%20ON%20RAILWAY-0b0b0b?style=for-the-badge&logo=railway&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
+| 🌀 Koyeb | [![Deploy Koyeb](https://img.shields.io/badge/-DEPLOY%20ON%20KOYEB-ff0050?style=for-the-badge&logo=koyeb&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
+| 🧩 Talkdrove | [![Deploy Talkdrove](https://img.shields.io/badge/-DEPLOY%20ON%20TALKDROVE-2196F3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://host.talkdrove.com/share-bot/49) |
 
-#### DEPLOY TO KOYEB 
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-3. Get [DATABASE_URL](https://github.com/SilvaTechB/silva-md-bot/wiki/DATABASE_URL) and copy it
+## 🧩 Plugins
 
-4. Get [Koyeb api key](https://app.koyeb.com/account/api)
+Boost your bot with external features!  
+[![External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://github.com/SilvaTechB/EXTERNAL-PLUGINS)
 
-2. Now Deploy
-    <br>
-<a href='https://github.com/SilvaTechB/s-ilva' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-#### DEPLOY TO RAILWAY
-1. If You don't have a account in railway. Create a account.
-    <br>
-<a href='https://railway.app/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+## 💡 Features
 
-2. Now Deploy
-    <br>
-<a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
-</details>
+- 🎵 Download YouTube videos as **audio or video**
+- 💬 Auto-replies + emoji reactions
+- 🔄 Auto motivational replies to viewed statuses
+- 🧹 Message deletion on keyword detection
+- 😄 Group/channel auto-reactions
+- 🗳️ Would You Rather polls
+- 👀 Read all messages (except exempted users)
+- 📲 Manage status and contacts
 
-For help visit [Github wiki](https://github.com/SilvaTechB/silva-md-bot/wiki)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-***
-<a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-maroom?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## 👨‍💻 Developer Support
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+- 🧠 Need help? [Open an Issue](https://github.com/SilvaTechB/silva-md-bot/issues)
+- 📩 WhatsApp Dev Chat: [Chat Silva Tech](https://wa.me/+254700143167?text=Hello+Silva+Tech,+I+need+assistance+with+Silva+MD+Bot)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/254700143167)
+## 📢 Socials
 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/silva.tech.inc)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100055490090211)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/silva_african)
 
-### I Am
-- [Silva Tech](https://github.com/SilvaTechB)
--
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<p align="center"> 
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+## 👥 Contributors
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+| ![Silva](https://github.com/SilvaTechB.png?size=80) | ![Shizo](https://github.com/shizothetechie.png?size=80) | ![Lazack](https://github.com/Lazack28.png?size=80) |
+|---|---|---|
+| [Silva](https://github.com/SilvaTechB) | [Shizo](https://github.com/shizothetechie) | [Lazack28](https://github.com/Lazack28) |
 
----
-## THANKS TO OUR TEAM :
-<details>
-<summary>CLICK HERE </summary>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/xei-sensei.png?size=100" width="100" height="100">](https://github.com/xei-sensei) 
----|---
-[SHIZO](https://github.com/shizothetechie)  | [GITHUB](https://github.com/xei-sensei)
-Base | Maintainer|
-<a href="https://github.com/SilvaTechB"><img src="https://github.com/SilvaTechB.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Sylivanu.png?size=100" width="100" height="100">](https://github.com/Sylivanu) 
----|---
-[TEAM SILVA](https://github.com/SilvaTechB)  | [MANAGER](https://github.com/Sylivanu)
-Maintainer | Silva Team|
-<a href="https://github.com/Lazack28"><img src="https://github.com/Lazack28.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/FG98F.png?size=100" width="100" height="100">](https://github.com/FG98F) 
----|---
-[LAZACK](https://github.com/Lazack28)  | [FG98F](https://github.com/FG98F)
-Maintainer | FG98F|
-</details>
+## 🔄 People Who Forked and 
 
+[![Forkers](https://reporoster.com/forks/SilvaTechB/silva-md-bot)](https://github.com/SilvaTechB/silva-md-bot/network/members)
+[![Stars](https://reporoster.com/stars/SilvaTechB/silva-md-bot)](https://github.com/SilvaTechB/silva-md-bot/network/members)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
----
+## 📎 License
 
+Licensed under MIT.  
+© [Silva Tech Inc](https://github.com/SilvaTechB)
 
-<h2 align="center">  NOTICE
-</h2>
-   
-## 
-- *silva tech is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use silva tech at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`](htttps://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/s-ilva)
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-  <img src="https://telegra.ph/file/751eef74109e0e5c8916c.jpg" height="90" width="100%">
+### Silva Md Bot doesn't have version 3
+

@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //put your bot number her
 
 global.mods = ['2349110307509', '27634624586']
 global.prems = ['2349110307509', '27634624586', '254755267907']

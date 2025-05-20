@@ -1,7 +1,7 @@
 {
     "name": "SILVA MD",
-    "version": "2.1.0",
-    "description": "Advanced WhatsApp",
+    "version": "4.0.1",
+    "description": "Silva MD Bot is a powerful, multi-functional WhatsApp bot designed for moderation, automation, media tools, and smart AI features — all in one seamless experience. Built for performance, secured for trust. 🚀",
     "main": "silva.js",
     "type": "module",
     "directories": {
@@ -22,22 +22,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "silva-bot",
+        "silva-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/SilvaTechB/silva-md-bot",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/SilvaTechB/silva-md-bot.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/SilvaTechB/silva-md-bot/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
@@ -47,14 +47,17 @@
         "@shineiichijo/marika": "^2.0.6",
         "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
         "@vitalets/google-translate-api": "^9.2.0",
-        "@whiskeysockets/baileys": "^6.6.0",
+        "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+        "@google/generative-ai":"^0.1.3",
         "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
+        "@hapi/boom": "^10.0.0",
         "@xct007/frieren-scraper": "*",
         "@xct007/tiktok-scraper": "*",
         "acrcloud": "^1.4.0",
         "aptoide-scraper": "^1.0.1",
         "awesome-phonenumber": "^3.4.0",
         "axios": "^1.4.0",
+        "btch-downloader": "^2.2.9",
         "chalk": "^5.1.0",
         "cheerio": "^1.0.0-rc.12",
         "chess.js": "*",
@@ -99,6 +102,7 @@
         "pino-pretty": "^9.1.1",
         "qrcode": "^1.5.1",
         "qrcode-terminal": "^0.12.0",
+        "ruhend-scraper":"8.0.3",
         "readline": "^1.3.0",
         "similarity": "^1.2.1",
         "socket.io": "^4.5.2",

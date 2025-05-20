@@ -23,7 +23,7 @@ figlet(
 )
 
 figlet(
-  'Advanced Horny Whatsapp Bot',
+  'Silva Bot',
   {
     horizontalLayout: 'default',
     verticalLayout: 'default',
@@ -46,7 +46,7 @@ const __dirname = path.dirname(__filename);
 app.use(express.static(path.join(__dirname, 'jusorts')));
 
 app.get('/', (req, res) => {
-  res.redirect('./silva.html');
+  res.redirect('/silva.html');
 });
 
 app.listen(port, () => {
@@ -98,11 +98,11 @@ async function start(file) {
     start('sylivanus.js')
   })
 
-  const pluginsFolder = path.join(path.dirname(currentFilePath), 'lazackcmds')
+  const pluginsFolder = path.join(path.dirname(currentFilePath), 'SilvaXlab')
 
   fs.readdir(pluginsFolder, async (err, files) => {
     if (err) {
-      console.error(chalk.red(`Error reading lazackcmds folder: ${err}`))
+      console.error(chalk.red(`Error reading SilvaXlab folder: ${err}`))
       return
     }
     console.log(chalk.yellow(`Installed ${files.length} plugins`))
